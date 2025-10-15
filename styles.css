@@ -1,12 +1,9 @@
-h1{
-    color:rgb(214, 16, 16)
-}
 body{
     background-color: rgb(255, 239, 219);
 }
-h2{
-    color: rgb(209, 33, 33);
+header{
+    color: rgb(226, 0, 0);
 }
-h3{
-    color: rgb(122, 20, 20);
+table{
+    color:rgb(173, 10, 10);
 }
