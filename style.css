@@ -20,3 +20,7 @@ footer{
 footer a{
     color: #76c7c0;
 }
+header>p{
+    font-size: 0.9em;
+    font-style: italic;
+}
