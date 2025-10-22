@@ -27,3 +27,7 @@ header>p{
 article p{
     color: gray;
 }
+.destaque{
+    color: blue;
+    font-weight: bold;
+}
